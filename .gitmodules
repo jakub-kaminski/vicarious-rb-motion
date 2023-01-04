@@ -1,0 +1,6 @@
+[submodule "lib/trajectory"]
+	path = lib/trajectory
+	url = https://github.com/jakub-kaminski/trajectory.git
+[submodule "lib/rigid-body-motion"]
+	path = lib/rigid-body-motion
+	url = https://github.com/jakub-kaminski/rigid-body-motion.git
